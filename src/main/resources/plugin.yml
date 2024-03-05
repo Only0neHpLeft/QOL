@@ -1,0 +1,5 @@
+name: QOL
+version: '${version}'
+main: cz.kernelenjoyer.qol.QOL
+api-version: '1.20'
+author: KernelEnjoyer
